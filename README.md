@@ -26,7 +26,7 @@
 **Backend:** Node.js, NestJS, Express.js, Python, Django, FastAPI, REST, GraphQL, Microservices  
 **Databases:** MongoDB, PostgreSQL, MySQL, Redis, SQLite  
 **DevOps & Cloud:** Docker, Docker Compose, AWS, GitHub Actions, CI/CD, Nginx  
-**AI & Automation:** LangChain, Crew.ai, Autogen, GitHub Copilot, Qwen-Code, Claude-Code, Augment-Code  
+**AI & Automation:** LangChain, LangGraph, LangSmith, Crew.ai, Autogen, N8N, GitHub Copilot, Qwen-Code, Claude-Code, Augment-Code, Cursor, Codex.   
 
 ---
 
